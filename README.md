@@ -1,32 +1,55 @@
 # 👋 Tin Nguyen
 
-### 🤖 Applied AI Engineer · 💻 Software Engineer
+### Applied AI Engineer · Software Engineer · Ph.D. Candidate
 
 I build AI systems that help people understand information and make better decisions. My work spans large language models, multimodal AI, AI agents, computer vision, OCR, and trustworthy AI.
 
 ## 🔬 Research Interests
 
-- 🧑‍💻 Human-computer interaction
-- 🔍 Interpretable AI
-- 🤝 Agentic and multi-agent AI
-- 👁️ Multimodal and vision-language models
-- 📊 Model evaluation and trustworthy AI
+- 🧑‍🤝‍🧑 Human–Computer Interaction
+- 🧩 Interpretable and Explainable AI
+- 🤖 Agentic and Multi-Agent AI
+- 👁️ Multimodal and Vision-Language Models
+- 🛡️ Trustworthy, Safe, and Reliable AI
+- 📈 Model Evaluation and Human-Centered Validation
 
 ## 🚀 Selected Work
 
-- 🌐 **PageGuide** — An AI web agent that highlights text, charts, and maps supporting an answer and guides users through web tasks. Accepted at the NeurIPS I-Eval Workshop.
-- 🧠 **HoT: Highlighted Chain of Thought** — A prompting and fine-tuning method that helps language models identify the facts supporting their answers. Published in TMLR.
-- 🎬 **VBVR** — A large-scale video reasoning benchmark with more than 1 million video clips across 200 tasks. Published at ICML.
-- 🖼️ **PEEB** — An interpretable image classifier based on editable descriptions of object parts. Published at NAACL.
-- 🏦 **Loan Default Risk Prediction** — A Regions Banking Hackathon project evaluated on 7,500 real applications, achieving the top AUC score and second prize.
+- **[PageGuide](https://pageguide.github.io/)** — An AI web agent that highlights text, charts, and maps supporting an answer and guides users through web tasks. Accepted at the NeurIPS I-Eval Workshop.
+- **[HoT: Highlighted Chain of Thought](https://highlightedchainofthought.github.io/)** — A prompting and fine-tuning method that helps language models identify the facts supporting their answers. Published in TMLR.
+- **[VBVR](https://video-reason.com/)** — A large-scale video reasoning benchmark with more than 1 million video clips across 200 tasks. [Code](https://github.com/Video-Reason/VBVR-EvalKit) · [Dataset](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset)
+- **[PEEB](https://github.com/anguyen8/peeb)** — An interpretable image classifier based on editable descriptions of object parts. Published at NAACL.
+- **Loan Default Risk Prediction** — A Regions Banking Hackathon project evaluated on 7,500 real applications, achieving the top AUC score and second prize.
 
 ## 🛠️ Technical Skills
 
-- 🐍 **Languages:** Python, JavaScript, TypeScript, HTML/CSS, C/C++, Java, C#, SQL
-- 🧩 **Frameworks:** React, Next.js, Node.js, FastAPI, Spring Boot, ASP.NET Core
-- 🗄️ **Databases:** PostgreSQL, MySQL, SQL Server, SQLite
-- 🧠 **AI / ML:** LLMs, VLMs, AI agents, multi-agent systems, RAG, OCR, computer vision, prompt engineering, explainable AI, reinforcement learning, fine-tuning (LoRA), PyTorch, TensorFlow, vLLM, OpenCV
-- 🔧 **Tools:** Docker, AWS, Azure, GCP, CI/CD, Git, Playwright, Chrome Extensions (Manifest V3)
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java,cs" alt="Programming languages" />
+</p>
+
+### 🧩 Frameworks and Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,dotnet,postgres,mysql" alt="Frameworks and databases" />
+</p>
+
+### 🧠 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and machine learning tools" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square" alt="AI agents" />
+  <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-EA4C89?style=flat-square" alt="LoRA fine-tuning" />
+</p>
+
+### 🔧 Tools and Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,github,playwright" alt="Development and cloud tools" />
+</p>
 
 ## 🔗 Links
 
