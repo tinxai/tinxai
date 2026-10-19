@@ -6,12 +6,28 @@ I build AI systems that help people understand information and make better decis
 
 ## 🔬 Research Interests
 
-- 🧑‍🤝‍🧑 Human–Computer Interaction
-- 🧩 Interpretable and Explainable AI
-- 🤖 Agentic and Multi-Agent AI
-- 👁️ Multimodal and Vision-Language Models
-- 🛡️ Trustworthy, Safe, and Reliable AI
-- 📈 Model Evaluation and Human-Centered Validation
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/research/human-computer-interaction.jpg" alt="A human hand interacting with a translucent computer interface" width="400" /><br />
+      <strong>Human–Computer Interaction</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/research/interpretable-explainable-ai.jpg" alt="A transparent AI network revealing the pathway behind a decision" width="400" /><br />
+      <strong>Interpretable and Explainable AI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/research/agentic-multi-agent-ai.jpg" alt="Connected AI agents coordinating to solve a shared task" width="400" /><br />
+      <strong>Agentic and Multi-Agent AI</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/research/trustworthy-safe-reliable-ai.jpg" alt="A protective shield surrounding a stable interconnected AI core" width="400" /><br />
+      <strong>Trustworthy, Safe, and Reliable AI</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Selected Work
 
