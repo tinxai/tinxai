@@ -35,9 +35,9 @@ I build AI systems that help people understand information and make better decis
 | :--- | ---: |
 | **[PageGuide](https://pageguide.github.io/)** — An AI web agent that highlights text, charts, and maps supporting an answer and guides users through web tasks. | ![Accepted at NeurIPS I-Eval Workshop](https://img.shields.io/badge/NeurIPS_I--Eval_Workshop-2563EB?style=flat-square) |
 | **[HoT: Highlighted Chain of Thought](https://highlightedchainofthought.github.io/)** — A prompting and fine-tuning method that helps language models identify the facts supporting their answers. | ![Published in TMLR](https://img.shields.io/badge/TMLR-0F766E?style=flat-square) |
-| **[VBVR](https://video-reason.com/)** — A large-scale video reasoning benchmark with more than 1 million video clips across 200 tasks. [Code](https://github.com/Video-Reason/VBVR-EvalKit) · [Dataset](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset) | — |
+| **[VBVR](https://video-reason.com/)** — A large-scale video reasoning benchmark with more than 1 million video clips across 200 tasks. [Code](https://github.com/Video-Reason/VBVR-EvalKit) · [Dataset](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset) | ![ICML](https://img.shields.io/badge/ICML-2563EB?style=flat-square) |
 | **[PEEB](https://github.com/anguyen8/peeb)** — An interpretable image classifier based on editable descriptions of object parts. | ![Published at NAACL](https://img.shields.io/badge/NAACL-7C3AED?style=flat-square) |
-| **Loan Default Risk Prediction** — A Regions Banking Hackathon project evaluated on 7,500 real applications, achieving the top AUC score. | ![Second prize at Regions Banking Hackathon](https://img.shields.io/badge/2nd_Prize-D4A017?style=flat-square) |
+| **Loan Default Risk Prediction** — A Regions Banking Hackathon project evaluated on 7,500 real applications, achieving the top AUC score. | <a href="https://www.regions.com/"><img src="assets/logos/regions.svg" alt="Regions" width="110" /></a><br />![2nd place at Regions Hackathon](https://img.shields.io/badge/Regions_Hackathon-2nd_Place-D4A017?style=flat-square) |
 
 ## 🛠️ Technical Skills
 
