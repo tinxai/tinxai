@@ -14,7 +14,7 @@ I build AI systems that help people understand information and make better decis
     </td>
     <td align="center" width="50%">
       <img src="assets/research/interpretable-explainable-ai.jpg" alt="A transparent AI network revealing the pathway behind a decision" width="180" /><br />
-      <strong>Interpretable and Explainable AI</strong>
+      <strong>Explainable AI</strong>
     </td>
   </tr>
   <tr>
