@@ -6,7 +6,7 @@ I build AI systems that help people understand information and make better decis
 
 ## 🔬 Research Interests
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <img src="assets/research/human-computer-interaction.jpg" alt="A human hand interacting with a translucent computer interface" width="180" /><br />
