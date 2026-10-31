@@ -33,9 +33,7 @@ Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passi
   </tr>
 </table>
 
-## Links
-
-<p>
+<p align="center">
   <a href="https://tinxai.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google_Scholar" /></a>
   <a href="https://linkedin.com/in/tin-kevin-nguyen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
