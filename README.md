@@ -47,5 +47,5 @@
   <a href="https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google_Scholar" /></a>
   <a href="https://linkedin.com/in/tin-kevin-nguyen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/tin_ng_qn"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:ngthanhtinqn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ngthanhtinqn@gmail.com"><img src="https://img.shields.io/badge/ngthanhtinqn@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="ngthanhtinqn@gmail.com" /></a>
 </p>
