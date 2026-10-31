@@ -42,4 +42,10 @@
 
 ## 🔗 Links
 
-🌐 [Website](https://tinxai.github.io/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en) · 💼 [LinkedIn](https://linkedin.com/in/tin-kevin-nguyen) · 🐙 [GitHub](https://github.com/tinxai)
+<p>
+  <a href="https://tinxai.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google_Scholar" /></a>
+  <a href="https://linkedin.com/in/tin-kevin-nguyen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/tin_ng_qn"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:ngthanhtinqn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
