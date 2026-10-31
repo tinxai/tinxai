@@ -12,33 +12,24 @@ Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passi
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java,cs" alt="Programming languages" />
-</p>
-
-### 🧩 Frameworks and Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,dotnet,postgres,mysql" alt="Frameworks and databases" />
-</p>
-
-### 🧠 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and machine learning tools" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square" alt="AI agents" />
-  <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-EA4C89?style=flat-square" alt="LoRA fine-tuning" />
-</p>
-
-### 🔧 Tools and Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,github,playwright" alt="Development and cloud tools" />
-</p>
+<table>
+  <tr>
+    <td><strong>👨‍💻 Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java,cs" height="32" alt="Programming languages" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧩 Frameworks &amp; Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,dotnet,postgres,mysql" height="32" alt="Frameworks and databases" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 AI / ML</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="32" alt="AI and machine learning tools" /> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square" alt="AI agents" /> <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-EA4C89?style=flat-square" alt="LoRA fine-tuning" /></td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Tools &amp; Cloud</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,github,playwright" height="32" alt="Development and cloud tools" /></td>
+  </tr>
+</table>
 
 ## 🔗 Links
 
