@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner/header.svg?v=2" alt="Tin Nguyen, Applied AI Engineer" width="100%" /></p>
+<p align="center"><img src="assets/banner/header-blue.svg" alt="Tin Nguyen, Applied AI Engineer" width="100%" /></p>
 
 Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passionate about building trustworthy and safe AI systems, furthermore, a system where human and AI can collaborate to solve complex problems. My work spans large language models, AI agents, computer vision, OCR, and trustworthy AI.
 
@@ -41,4 +41,4 @@ Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passi
   <a href="mailto:ngthanhtinqn@gmail.com"><img src="https://img.shields.io/badge/ngthanhtinqn@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="ngthanhtinqn@gmail.com" /></a>
 </p>
 
-<p align="center"><img src="assets/banner/footer.svg?v=2" alt="" width="100%" /></p>
+<p align="center"><img src="assets/banner/footer-blue.svg" alt="" width="100%" /></p>
