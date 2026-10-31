@@ -1,4 +1,4 @@
-# Hi, I am Tin Nguyen, an Applied AI Engineer, Software Engineer, who is passionate about building trustworthy and safe AI systems, furthermore, a system where human and AI can collaborate to solve complex problems. My work spans large language models, AI agents, computer vision, OCR, and trustworthy AI.
+Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passionate about building trustworthy and safe AI systems, furthermore, a system where human and AI can collaborate to solve complex problems. My work spans large language models, AI agents, computer vision, OCR, and trustworthy AI.
 
 ## 🚀 Selected Work
 
