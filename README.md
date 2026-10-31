@@ -1,33 +1,4 @@
-# 👋 Tin Nguyen
-
-### Applied AI Engineer · Software Engineer · Ph.D. Candidate
-
-I build AI systems that help people understand information and make better decisions. My work spans large language models, multimodal AI, AI agents, computer vision, OCR, and trustworthy AI.
-
-## 🔬 Research Interests
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="assets/research/human-computer-interaction.jpg" alt="A human hand interacting with a translucent computer interface" width="180" /><br />
-      <strong>Human–Computer Interaction</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/research/interpretable-explainable-ai.jpg" alt="A transparent AI network revealing the pathway behind a decision" width="180" /><br />
-      <strong>Explainable AI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="assets/research/agentic-multi-agent-ai.jpg" alt="Connected AI agents coordinating to solve a shared task" width="180" /><br />
-      <strong>Agentic and Multi-Agent AI</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/research/trustworthy-safe-reliable-ai.jpg" alt="A protective shield surrounding a stable interconnected AI core" width="180" /><br />
-      <strong>Trustworthy, Safe, and Reliable AI</strong>
-    </td>
-  </tr>
-</table>
+# Hi, I am Tin Nguyen, an Applied AI Engineer, Software Engineer, who is passionate about building trustworthy and safe AI systems, furthermore, a system where human and AI can collaborate to solve complex problems. My work spans large language models, AI agents, computer vision, OCR, and trustworthy AI.
 
 ## 🚀 Selected Work
 
@@ -71,7 +42,4 @@ I build AI systems that help people understand information and make better decis
 
 ## 🔗 Links
 
-- 🌐 [Website](https://tinxai.github.io/)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en)
-- 💼 [LinkedIn](https://linkedin.com/in/tin-kevin-nguyen)
-- 🐙 [GitHub](https://github.com/tinxai)
+🌐 [Website](https://tinxai.github.io/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en) · 💼 [LinkedIn](https://linkedin.com/in/tin-kevin-nguyen) · 🐙 [GitHub](https://github.com/tinxai)
