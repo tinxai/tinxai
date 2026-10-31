@@ -23,7 +23,7 @@ Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passi
   </tr>
   <tr>
     <td><strong>🧠 AI / ML</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="32" alt="AI and machine learning tools" /> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square" alt="AI agents" /> <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-EA4C89?style=flat-square" alt="LoRA fine-tuning" /></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="32" alt="AI and machine learning tools" /> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square" alt="AI agents" /> <img src="https://img.shields.io/badge/Fine--tuning-EA4C89?style=flat-square" alt="Fine-tuning" /></td>
   </tr>
   <tr>
     <td><strong>🔧 Tools &amp; Cloud</strong></td>
