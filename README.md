@@ -1,6 +1,6 @@
 Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passionate about building trustworthy and safe AI systems, furthermore, a system where human and AI can collaborate to solve complex problems. My work spans large language models, AI agents, computer vision, OCR, and trustworthy AI.
 
-## 🚀 Selected Work
+## Selected Work
 
 | Work | Venue / Recognition |
 | :--- | ---: |
@@ -10,28 +10,28 @@ Hi, I am **Tin Nguyen**, an Applied AI Engineer, Software Engineer, who is passi
 | **[PEEB](https://github.com/anguyen8/peeb)** — An interpretable image classifier based on editable descriptions of object parts. | ![Published at NAACL](https://img.shields.io/badge/NAACL-7C3AED?style=flat-square) |
 | **Loan Default Risk Prediction** — A Regions Banking Hackathon project evaluated on 7,500 real applications, achieving the top AUC score. | <a href="https://www.regions.com/"><img src="assets/logos/regions.svg" alt="Regions" width="110" /></a><br />![2nd place at Regions Hackathon](https://img.shields.io/badge/Regions_Hackathon-2nd_Place-D4A017?style=flat-square) |
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table>
   <tr>
-    <td><strong>👨‍💻 Languages</strong></td>
+    <td><strong>Languages</strong></td>
     <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java,cs" height="32" alt="Programming languages" /></td>
   </tr>
   <tr>
-    <td><strong>🧩 Frameworks &amp; Databases</strong></td>
+    <td><strong>Frameworks &amp; Databases</strong></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,dotnet,postgres,mysql" height="32" alt="Frameworks and databases" /></td>
   </tr>
   <tr>
-    <td><strong>🧠 AI / ML</strong></td>
+    <td><strong>AI / ML</strong></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="32" alt="AI and machine learning tools" /> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square" alt="AI agents" /> <img src="https://img.shields.io/badge/Fine--tuning-EA4C89?style=flat-square" alt="Fine-tuning" /></td>
   </tr>
   <tr>
-    <td><strong>🔧 Tools &amp; Cloud</strong></td>
+    <td><strong>Tools &amp; Cloud</strong></td>
     <td><img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,github,playwright" height="32" alt="Development and cloud tools" /></td>
   </tr>
 </table>
 
-## 🔗 Links
+## Links
 
 <p>
   <a href="https://tinxai.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
